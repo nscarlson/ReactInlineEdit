@@ -9,7 +9,8 @@ module.exports = {
     ]
   },
   externals: {
-    react: 'React',
-    'react-dom': 'ReactDOM'
+    'react': 'React',
+    'react-dom': 'ReactDOM',
+    'prop-types': 'prop-types'
   }
 }
